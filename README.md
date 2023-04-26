@@ -1,2 +1,2 @@
 # Next.js-application---Geofencing
-GIS Tracking 
+GIS mapping
